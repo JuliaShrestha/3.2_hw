@@ -1,3 +1,4 @@
+"use strict"
 const userName = prompt("Enter your name");
 const userAge = prompt("Enter your age");
 const userEmail = prompt("Enter your email");
